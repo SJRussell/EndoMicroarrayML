@@ -20,5 +20,5 @@ Thumbs.db
 # *.joblib
 
 # Large data files (optional - consider Git LFS if needed)
-# data/*.csv
+data/GENE_MATRIX_COMBO_MAR31.csv
 ```
